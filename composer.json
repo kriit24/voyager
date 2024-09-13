@@ -17,7 +17,6 @@
     "require": {
         "php": "^8.0",
         "ext-json": "*",
-        "illuminate/contracts": "^9.0",
         "illuminate/support": "^9.0",
         "doctrine/dbal": "^3.3",
         "composer/composer": "^2.0",
